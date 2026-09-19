@@ -1,0 +1,10 @@
+# Config & Database credentials
+LAMPAPI/config.php
+LAMPAPI/db.php
+*.env
+
+# Server / IDE logs
+*.log
+.DS_Store
+.vscode/
+.idea/
